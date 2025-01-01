@@ -1,4 +1,4 @@
-package com.madeean.test
+package com.madeean.madeemoneytrack
 
 import App
 import android.os.Bundle
